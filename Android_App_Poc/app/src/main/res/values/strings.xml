@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_App_Poc</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sign_up_">SignUp_Activity</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="debug_value">true</string>
+</resources>
